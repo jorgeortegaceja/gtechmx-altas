@@ -1,2 +1,0 @@
-# gtechmx-atlas
-
